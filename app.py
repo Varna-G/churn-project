@@ -128,9 +128,8 @@ elif page == "🔍 Risk Explorer":
     col1, col2, col3 = st.columns(3)
 
     with col1:
-        min_prob = st.slider("Min Churn Probability",
-                             0.0, 1.0, float(THRESHOLD if 'THRESHOLD' in dir() else 0.35),
-                             0.05)
+        min_prob = st.slider("Min Churn Probability", 0.0, 1.0, 0.35, 0.05)
+
     with col2:
         contract_filter = st.multiselect(
             "Contract Type",
