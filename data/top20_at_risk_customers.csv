@@ -1,0 +1,21 @@
+Rank,Churn Prob,Risk Level,Monthly $,CLV $,Tenure (mo),Contract
+1,43.9%,Medium,$108,"$3,243",48,Two year
+2,77.4%,Critical,$117,"$2,110",68,One year
+3,44.4%,Medium,$111,"$1,994",62,One year
+4,43.9%,Medium,$108,"$1,952",68,One year
+5,85.9%,Critical,$108,"$1,949",42,One year
+6,42.4%,Medium,$108,"$1,940",58,One year
+7,35.5%,Medium,$107,"$1,922",51,One year
+8,39.5%,Medium,$106,"$1,917",52,One year
+9,42.8%,Medium,$106,"$1,909",44,One year
+10,57.9%,High,$106,"$1,907",40,One year
+11,35.7%,Medium,$106,"$1,904",40,One year
+12,56.5%,High,$105,"$1,897",67,One year
+13,51.7%,High,$104,"$1,877",43,One year
+14,45.6%,Medium,$104,"$1,871",50,One year
+15,49.2%,Medium,$101,"$1,817",19,One year
+16,39.1%,Medium,$100,"$1,801",22,One year
+17,47.2%,Medium,$100,"$1,800",39,One year
+18,51.7%,High,$99,"$1,780",10,One year
+19,49.5%,Medium,$98,"$1,763",49,One year
+20,49.6%,Medium,$94,"$1,693",7,One year
